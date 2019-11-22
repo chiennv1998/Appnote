@@ -1,3 +1,15 @@
-<resources>
-    <string name="app_name">Appnote</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Ghi chú</string>
+    <!--button-->
+    <string name="btn_add">Add</string>
+    <string name="btn_cancel">Cancel</string>
+    <!--text-->
+    <string name="content">Content</string>
+    <string name="title" >Title</string>
+    <string name="newnote">New Note</string>
+
+    <string name="title_activity_add_note">AddNoteActi</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="btn_update">Update</string>
 </resources>
