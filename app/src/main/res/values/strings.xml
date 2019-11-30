@@ -1,15 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">Ghi chú</string>
-    <!--button-->
-    <string name="btn_add">Add</string>
-    <string name="btn_cancel">Cancel</string>
-    <!--text-->
-    <string name="content">Content</string>
-    <string name="title" >Title</string>
-    <string name="newnote">New Note</string>
 
-    <string name="title_activity_add_note">AddNoteActi</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
-    <string name="btn_update">Update</string>
+    <string name="app_name">Ghi Chu</string>
+    <string name="hello_world" tools:ignore="ExtraTranslation">Hello world!</string>
+    <string name="about">About</string>
+    <string name="title">Title : </string>
+    <string name="content">Content : </string>
+    <string name="menu_delete">Delete Item</string>
+    <string name="no_title">No Title</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="save_menu_noteedit">Save</string>
+    <string name="delete_menu_noteedit">Delete</string>
+
 </resources>
